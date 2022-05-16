@@ -1,0 +1,4 @@
+#!/bin/bash -exu
+
+# brew install maven # for macosx
+mvn package # creates target/demo.war
